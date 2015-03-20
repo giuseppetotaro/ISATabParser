@@ -11,5 +11,5 @@ This work aims at providing the following features:
 ## What’s the next
 The most important improvement is to refine these three parsers and combine them in order to parse a ISArchive as well as possible. Another improvement is better mapping of study and assay data on XHTML structures.
 
-## TIKA-
-An issue has been created on the Tika Issue Tracker system: [TIKA-](https://issues.apache.org/jira/browse/TIKA-). Please refer to that issue for comments and feedback.
+## TIKA-1580
+An issue has been created on the Tika Issue Tracker system: [TIKA-1580](https://issues.apache.org/jira/browse/TIKA-1580). Please refer to that issue for comments and feedback.
