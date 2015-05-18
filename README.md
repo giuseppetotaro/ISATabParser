@@ -1,5 +1,5 @@
 # ISATabParser
-This is a prelimianry work to add to Tika the ability to parse the ISA-Tab data formats.
+This is a preliminary work to add to Tika the ability to parse the ISA-Tab data formats.
 ISA-Tab files are related to [ISA Tools](http://www.isa-tools.org/).
 
 This work aims at providing the following features:
